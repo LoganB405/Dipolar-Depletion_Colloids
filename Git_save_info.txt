@@ -1,0 +1,16 @@
+## HOW TO SYNC FILES TO GITHUB ##
+
+
+1) Stage all your new and modified files.
+
+	$ git add .
+
+2) Save your changes locally with a descriptive note.
+
+	$ git commit -m "Sample note .."
+
+3) Upload your changes to your GitHub Repository
+
+	$ git push
+
+
